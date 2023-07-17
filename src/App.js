@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Welcome to ReactJs created by Zoltan Iordache!
         </a>
       </header>
     </div>
